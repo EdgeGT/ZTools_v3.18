@@ -1,0 +1,23 @@
+
+ ██▓ ███▄ ▄███▓ ██▓███   ▒█████   ██▀███  ▄▄▄█████▓ ▄▄▄       ███▄    █ ▄▄▄█████▓
+▓██▒▓██▒▀█▀ ██▒▓██░  ██▒▒██▒  ██▒▓██ ▒ ██▒▓  ██▒ ▓▒▒████▄     ██ ▀█   █ ▓  ██▒ ▓▒
+▒██▒▓██    ▓██░▓██░ ██▓▒▒██░  ██▒▓██ ░▄█ ▒▒ ▓██░ ▒░▒██  ▀█▄  ▓██  ▀█ ██▒▒ ▓██░ ▒░
+░██░▒██    ▒██ ▒██▄█▓▒ ▒▒██   ██░▒██▀▀█▄  ░ ▓██▓ ░ ░██▄▄▄▄██ ▓██▒  ▐▌██▒░ ▓██▓ ░ 
+░██░▒██▒   ░██▒▒██▒ ░  ░░ ████▓▒░░██▓ ▒██▒  ▒██▒ ░  ▓█   ▓██▒▒██░   ▓██░  ▒██▒ ░ 
+░▓  ░ ▒░   ░  ░▒▓▒░ ░  ░░ ▒░▒░▒░ ░ ▒▓ ░▒▓░  ▒ ░░    ▒▒   ▓▒█░░ ▒░   ▒ ▒   ▒ ░░   
+ ▒ ░░  ░      ░░▒ ░       ░ ▒ ▒░   ░▒ ░ ▒░    ░      ▒   ▒▒ ░░ ░░   ░ ▒░    ░    
+ ▒ ░░      ░   ░░       ░ ░ ░ ▒    ░░   ░   ░        ░   ▒      ░   ░ ░   ░      
+ ░         ░                ░ ░     ░                    ░  ░         ░          
+                                                                                 
+
+MAKE SURE YOU HAVE PYTHON & VISUAL BUILD TOOLS INSTALLED IN YOUR PC!
+THESE PROGRAMS ARE VERY IMPORTANT AND WITHOUT THEM, THIS TOOL WONT
+WORK!
+
+INSTALL VISUAL BUILD TOOLS HERE:
+https://visualstudio.microsoft.com/downloads/
+
+INSTALL PYTHON HERE:
+https://www.python.org/downloads/
+
+THANK YOU FOR USING ZTOOLS! HAPPY NEW YEAR
